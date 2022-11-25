@@ -2,4 +2,6 @@
 
 Написал текст на своем компьютере!
 
-Написал текст через браузер!!!!
+Add english text via Browser
+
+And I happy now
