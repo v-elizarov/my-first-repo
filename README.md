@@ -1,5 +1,7 @@
-﻿# my-first-repo
+﻿# My first repo
 
-Написал текст на своем компьютере!
+Write this on computer!
 
-Написал текст через браузер!!!!
+Write this via browser!!!!
+
+And I smile now:D
